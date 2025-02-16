@@ -14,7 +14,7 @@ FlavorBlend is an AI-powered recipe generation app that blends flavors from diff
 
 ## 🛠️ Tech Stack  
 
-- **Frontend:** React Native (for mobile), Next.js (for web)  
+- **Frontend:** React Native (for mobile), python (for web)  
 - **Backend:** Node.js with Express.js  
 - **Database:** MongoDB (for storing user data and recipes)  
 - **AI Models:** OpenAI’s GPT & Stable Diffusion (for text & image generation)  
