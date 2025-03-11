@@ -14,21 +14,31 @@ FlavorBlend is an AI-powered recipe generation app that blends flavors from diff
 
 ## 🛠️ Tech Stack  
 
-- **Frontend:** React Native (for mobile) & Expo, python (for web)  
+- **Frontend:** React Native using Expo (for mobile App), Python Flask (for web)  
 - **Backend:** Node.js with Express.js  
 - **Database:** MongoDB (for storing user data and recipes)  
 - **AI Models:** Llama 3 & Stable Diffusion (for text & image generation)  
 - **Cloud Services:** Cloudflare (for API routing & hosting pre-trained models), Firebase (for authentication, storage & sharing)  
+
+### **📌 Prerequisites**
+Ensure you have the following installed on your system:
+- [Node.js](https://nodejs.org/) (LTS version recommended)
+- [Expo CLI](https://docs.expo.dev/get-started/installation/)
 
 ## 🚀 Installation & Setup  
 
 1. Clone this repository:  
    ```sh
    git clone https://github.com/AashikSharif/dhaaba-fusion-be/
-   cd FlavorBlend
+   cd dhaaba-fusion-be/
 
+2. Setup packages
+   ```sh
+   npm install
+
+   
 ## Related Repositories
 
 - **Backend**: [dhaaba-fusion-be](https://github.com/AashikSharif/dhaaba-fusion-be/)
 - **Frontend (Mobile App)**: [dhaaba-fe](https://github.com/peersahab/dhaaba-fe/)
-- **Web App**: [food-app](https://github.com/AashikSharif/food-app/)
+- **Web App**: [food-app](https://github.com/simarjeetss/food-app)
